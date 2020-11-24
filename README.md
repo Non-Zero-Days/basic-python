@@ -47,7 +47,7 @@ message = input("Please write a message\n")
 print("You wrote the following message:\n" + message)
 ```
 
-Open the Terminal window with Ctrl+Shift+`
+Open the Terminal window with Ctrl+`
 
 Run the following command
 
@@ -68,7 +68,7 @@ if(message != ''):
     print("You wrote the following message:\n" + message)
 ```
 
-Open the Terminal window with Ctrl+Shift+`
+Open the Terminal window with Ctrl+`
 
 Run the following command
 
@@ -90,7 +90,7 @@ if(message != ''):
         print(character)
 ```
 
-Open the Terminal window with Ctrl+Shift+`
+Open the Terminal window with Ctrl+`
 
 Run the following command
 
@@ -118,7 +118,7 @@ for line in file:
     print(line)
 ```
 
-Open the Terminal window with Ctrl+Shift+`
+Open the Terminal window with Ctrl+`
 
 Run the following command
 
@@ -135,7 +135,7 @@ file.write(message)
 file.close()
 ```
 
-Open the Terminal window with Ctrl+Shift+`
+Open the Terminal window with Ctrl+`
 
 Run the following command
 
